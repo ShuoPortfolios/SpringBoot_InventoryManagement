@@ -1,5 +1,7 @@
 學習Java Spring boot的過程中，利用自己的C# .Net技術以及過往開發過進銷存系統的經驗，利用所學開發出純後端的Spring boot API專案
 
+學習來源 - https://github.com/mosh-hamedani/spring-store
+
 Framework - Java Spring boot
 
 POM - Maven
